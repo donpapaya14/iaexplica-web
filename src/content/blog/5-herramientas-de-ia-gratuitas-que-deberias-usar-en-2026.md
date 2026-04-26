@@ -2,7 +2,7 @@
 title: "5 Herramientas de IA Gratuitas que Deberias Usar en 2026"
 description: "Las mejores herramientas de IA gratuitas para productividad, escritura e imagen. Con nombres reales y tutoriales."
 pubDate: 2026-04-26
-image: "https://images.pexels.com/photos/29502371/pexels-photo-29502371.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/29502371/pexels-photo-29502371.jpeg"
 imageAlt: "A smartphone and laptop displaying online shopping platforms, suggesting digital retail."
 category: "herramientas"
 tags: ["herramientas IA", "ChatGPT", "gratis", "productividad", "2026"]

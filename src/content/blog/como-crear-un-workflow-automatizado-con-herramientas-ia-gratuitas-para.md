@@ -2,7 +2,7 @@
 title: "Cómo crear un workflow automatizado con herramientas IA gratuitas para"
 description: "Descubre cómo crear un workflow automatizado con herramientas IA gratuitas, paso a paso, y mejora tus tareas automatizando tus procesos. "
 pubDate: 2026-04-26
-image: "https://images.pexels.com/photos/15505431/pexels-photo-15505431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/15505431/pexels-photo-15505431.jpeg"
 imageAlt: "Close-up of a hand placing a yellow 'How-To' sticky note on a whiteboard for planning."
 category: "automatizacion"
 tags: ["automatización de tareas", "herramientas IA gratuitas", "workflow automatizado para principiantes", "mejoras en productividad", "integración de aplicaciones"]
