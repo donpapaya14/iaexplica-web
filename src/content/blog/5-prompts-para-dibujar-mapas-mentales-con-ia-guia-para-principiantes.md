@@ -2,6 +2,8 @@
 title: "5 Prompts para Dibujar Mapas Mentales con IA: Guía para Principiantes"
 description: "Descubre cómo utilizar IA para crear mapas mentales visuales con estas 5 herramientas y prompts exactos"
 pubDate: 2026-04-26
+image: "https://images.pexels.com/photos/3832024/pexels-photo-3832024.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+imageAlt: "An up-close view of hands holding an open book with colorful bookmarks, ideal for literary themes."
 category: "prompts"
 tags: ["mapas mentales con IA", "herramientas de IA para dibujar", "creación de mapas mentales para principiantes", "prompts para dibujar mapas mentales con IA"]
 author: "IAExplica"

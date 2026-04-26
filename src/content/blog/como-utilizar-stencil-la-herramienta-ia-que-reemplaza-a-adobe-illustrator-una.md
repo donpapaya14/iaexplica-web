@@ -2,6 +2,8 @@
 title: "Cómo utilizar Stencil, la herramienta IA que reemplaza a Adobe"
 description: "Descubre cómo utilizar Stencil, la herramienta IA que reemplaza a Illustrator, para crear diseños profesionales sin necesidad de experiencia. Aquí te enseñamos todo sobre cómo funciona y cómo empezar."
 pubDate: 2026-04-26
+image: "https://images.pexels.com/photos/37054080/pexels-photo-37054080.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+imageAlt: "Historic cave art featuring stenciled hands at Cueva de las Manos in Santa Cruz, Argentina."
 category: "herramientas"
 tags: ["herramientas IA para diseñadores gráficos", "reemplazo de Adobe Illustrator", "herramientas IA para diseñadores", "Stencil para principiantes", "creación de diseños gráficos con IA"]
 author: "IAExplica"

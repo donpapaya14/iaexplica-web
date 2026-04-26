@@ -2,6 +2,8 @@
 title: "Crea tutoriales de video animados con IA: guía paso a paso con"
 description: "Descubre cómo crear tutoriales de video animados con la ayuda de la inteligencia artificial. Guía paso a paso con herramientas gratuitas para principiantes"
 pubDate: 2026-04-26
+image: "https://images.pexels.com/photos/29505140/pexels-photo-29505140.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+imageAlt: "Close-up of a video editing software interface showing timeline and controls."
 category: "tutoriales"
 tags: ["tutoriales de video animados", "IA", "herramientas gratuitas", "creación de contenido de video", "ilustración y animación", "educación"]
 author: "IAExplica"
