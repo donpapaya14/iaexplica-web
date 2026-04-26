@@ -27,11 +27,11 @@ log = logging.getLogger(__name__)
 
 BLOG_DIR = Path(__file__).parent.parent / "src" / "content" / "blog"
 CATEGORY_NAMES = {
-    "nutricion": "Nutrición",
-    "ejercicio": "Ejercicio",
-    "mente": "Salud Mental",
-    "longevidad": "Longevidad",
-    "recetas": "Recetas Saludables",
+    "herramientas": "Herramientas IA",
+    "prompts": "Prompts",
+    "automatizacion": "Automatización",
+    "productividad": "Productividad",
+    "tutoriales": "Tutoriales",
 }
 
 # Amazon affiliate tag — CAMBIAR cuando tengas tu tag real

@@ -81,7 +81,7 @@ def pick_category() -> str:
 
 def pick_formula(category: str) -> str:
     """Elige fórmula aleatoria para la categoría."""
-    formulas = ARTICLE_FORMULAS.get(category, ARTICLE_FORMULAS["nutricion"])
+    formulas = ARTICLE_FORMULAS.get(category, list(ARTICLE_FORMULAS.values())[0])
     return random.choice(formulas)
 
 
