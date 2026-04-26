@@ -1,5 +1,5 @@
 ---
-title: "Cómo utilizar la IA para organizar tu día automáticamente para adultos ocupados en 2026"
+title: "Cómo utilizar la IA para organizar tu día automáticamente para adultos"
 description: "Descubre cómo utilizar herramientas de IA para optimizar tu rutina diaria y aumentar tu productividad en 2026."
 pubDate: 2026-04-26
 category: "productividad"

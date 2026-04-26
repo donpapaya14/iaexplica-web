@@ -1,5 +1,5 @@
 ---
-title: "Crea tutoriales de video animados con IA: guía paso a paso con herramientas gratuitas"
+title: "Crea tutoriales de video animados con IA: guía paso a paso con"
 description: "Descubre cómo crear tutoriales de video animados con la ayuda de la inteligencia artificial. Guía paso a paso con herramientas gratuitas para principiantes"
 pubDate: 2026-04-26
 category: "tutoriales"

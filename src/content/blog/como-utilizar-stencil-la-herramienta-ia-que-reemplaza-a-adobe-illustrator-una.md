@@ -1,5 +1,5 @@
 ---
-title: "Cómo utilizar Stencil, la herramienta IA que reemplaza a Adobe Illustrator: una guía para principiantes"
+title: "Cómo utilizar Stencil, la herramienta IA que reemplaza a Adobe"
 description: "Descubre cómo utilizar Stencil, la herramienta IA que reemplaza a Illustrator, para crear diseños profesionales sin necesidad de experiencia. Aquí te enseñamos todo sobre cómo funciona y cómo empezar."
 pubDate: 2026-04-26
 category: "herramientas"
